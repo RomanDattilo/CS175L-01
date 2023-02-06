@@ -32,6 +32,12 @@ if vegetarian==True and vegan==False and gluten_free==False:
     print("Mama's Fine Italian'")
 
 if vegetarian==True and vegan==False and gluten_free==True:
-    print("Main Street")
-    print("Pizza Corner Cafe")
+    print("Main Street Pizza")
+else:
+    print("Corner Cafe")
     print("Chef's Kitchen")
+
+
+
+
+
