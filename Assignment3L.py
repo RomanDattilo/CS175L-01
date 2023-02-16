@@ -1,3 +1,12 @@
+#Roman Dattilo
+
+#CS175L
+
+#Stop sign
+
+
+
+
 import turtle
 
 num_sides=8
